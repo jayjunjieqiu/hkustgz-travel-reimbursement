@@ -1,0 +1,4 @@
+interface:
+  display_name: "HKUSTGZ 差旅报销"
+  short_description: "整理差旅凭证、核对 PBMS 费用并协助提交"
+  default_prompt: "使用 $hkustgz-travel-reimbursement，按已确认的信息协助处理本次 PBMS 差旅报销，保留材料来源与金额核对记录。"
