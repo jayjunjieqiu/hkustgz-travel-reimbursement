@@ -29,8 +29,6 @@ https://github.com/jayjunjieqiu/hkustgz-travel-reimbursement
 
 ## 报销流程
 
-![虚构报销单示意，展示四笔费用、境外餐费票据与待预算审核状态](docs/pbms-reimbursement-demo.png)
-
 | 阶段 | 结果 |
 | --- | --- |
 | 整理材料 | 标注扫描件，配对票据与付款凭证，列出缺件和金额差异。 |
