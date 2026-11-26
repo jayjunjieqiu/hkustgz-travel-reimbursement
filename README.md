@@ -1,4 +1,4 @@
-# HKUSTGZ 差旅报销
+# ![差旅报销 · 适用于 HKUST(GZ) 和 PBMS](docs/pbms-banner.png)
 
 <a href="LICENSE"><img src="docs/mit-badge.png" alt="MIT License" width="86" height="21"></a>
 
