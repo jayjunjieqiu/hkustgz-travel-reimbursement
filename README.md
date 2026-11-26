@@ -1,5 +1,7 @@
 # HKUSTGZ 差旅报销
 
+<a href="LICENSE"><img src="docs/mit-badge.png" alt="MIT License" width="86" height="21"></a>
+
 用 Codex 整理香港科技大学（广州）的差旅凭证、录入 PBMS、核对申报金额，并经授权提交预算审核。
 
 [PDF 操作指南](docs/HKUSTGZ_PBMS自动报销操作指南.pdf) · [技能说明](hkustgz-travel-reimbursement/SKILL.md)
@@ -26,6 +28,8 @@ https://github.com/jayjunjieqiu/hkustgz-travel-reimbursement
 在网页上登录 [PBMS](https://pbms.hkust-gz.edu.cn/)，核对材料标注和待确认事项。确认申报金额和处理口径后，授权提交。
 
 ## 报销流程
+
+![虚构报销单示意，展示四笔费用、境外餐费票据与待预算审核状态](docs/pbms-reimbursement-demo.png)
 
 | 阶段 | 结果 |
 | --- | --- |
